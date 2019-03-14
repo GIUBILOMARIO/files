@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-03-14">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="0" label="キムスンギュ">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-126.5305" y="-588.7406"></viz:position>
+        <viz:color r="163" g="0" b="54"></viz:color>
+      </node>
+      <node id="1" label="西大伍">
+        <viz:size value="30.833332"></viz:size>
+        <viz:position x="341.66235" y="-52.725746"></viz:position>
+        <viz:color r="163" g="0" b="54"></viz:color>
+      </node>
+      <node id="2" label="ダンクレー">
+        <viz:size value="47.5"></viz:size>
+        <viz:position x="30.003162" y="-326.258"></viz:position>
+        <viz:color r="163" g="0" b="54"></viz:color>
+      </node>
+      <node id="3" label="大崎玲央">
+        <viz:size value="60.0"></viz:size>
+        <viz:position x="-392.86795" y="-330.5125"></viz:position>
+        <viz:color r="163" g="0" b="54"></viz:color>
+      </node>
+      <node id="4" label="初瀬亮">
+        <viz:size value="43.333336"></viz:size>
+        <viz:position x="-793.2633" y="-31.097328"></viz:position>
+        <viz:color r="163" g="0" b="54"></viz:color>
+      </node>
+      <node id="5" label="山口螢">
+        <viz:size value="51.666664"></viz:size>
+        <viz:position x="22.029999" y="-89.231125"></viz:position>
+        <viz:color r="163" g="0" b="54"></viz:color>
+      </node>
+      <node id="6" label="三田啓貴">
+        <viz:size value="55.833336"></viz:size>
+        <viz:position x="-444.75317" y="41.304535"></viz:position>
+        <viz:color r="163" g="0" b="54"></viz:color>
+      </node>
+      <node id="7" label="ポドルスキ">
+        <viz:size value="47.5"></viz:size>
+        <viz:position x="66.98138" y="249.67403"></viz:position>
+        <viz:color r="163" g="0" b="54"></viz:color>
+      </node>
+      <node id="8" label="イニエスタ">
+        <viz:size value="51.666664"></viz:size>
+        <viz:position x="-568.5692" y="243.77028"></viz:position>
+        <viz:color r="163" g="0" b="54"></viz:color>
+      </node>
+      <node id="9" label="古橋亨梧">
+        <viz:size value="47.5"></viz:size>
+        <viz:position x="-269.50635" y="323.1305"></viz:position>
+        <viz:color r="163" g="0" b="54"></viz:color>
+      </node>
+      <node id="10" label="ビジャ">
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-381.14346" y="527.65186"></viz:position>
+        <viz:color r="163" g="0" b="54"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="2">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="1" source="0" target="3" weight="4.0">
+        <viz:color r="169" g="128" b="128"></viz:color>
+      </edge>
+      <edge id="2" source="0" target="5" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="3" source="0" target="6">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="4" source="1" target="2" weight="6.0">
+        <viz:color r="148" g="61" b="73"></viz:color>
+      </edge>
+      <edge id="5" source="1" target="3">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="6" source="1" target="5" weight="5.0">
+        <viz:color r="152" g="91" b="95"></viz:color>
+      </edge>
+      <edge id="7" source="1" target="7" weight="3.0">
+        <viz:color r="197" g="170" b="170"></viz:color>
+      </edge>
+      <edge id="8" source="1" target="8">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="9" source="1" target="9">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="10" source="1" target="10">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="11" source="2" target="0" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="12" source="2" target="1" weight="4.0">
+        <viz:color r="169" g="128" b="128"></viz:color>
+      </edge>
+      <edge id="13" source="2" target="3" weight="4.0">
+        <viz:color r="169" g="128" b="128"></viz:color>
+      </edge>
+      <edge id="14" source="2" target="4">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="15" source="2" target="5" weight="4.0">
+        <viz:color r="169" g="128" b="128"></viz:color>
+      </edge>
+      <edge id="16" source="2" target="7">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="17" source="2" target="8">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="18" source="2" target="9">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="19" source="2" target="10">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="20" source="3" target="0" weight="3.0">
+        <viz:color r="197" g="170" b="170"></viz:color>
+      </edge>
+      <edge id="21" source="3" target="2" weight="5.0">
+        <viz:color r="152" g="91" b="95"></viz:color>
+      </edge>
+      <edge id="22" source="3" target="4" weight="7.0">
+        <viz:color r="143" g="30" b="51"></viz:color>
+      </edge>
+      <edge id="23" source="3" target="5" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="24" source="3" target="6" weight="6.0">
+        <viz:color r="148" g="61" b="73"></viz:color>
+      </edge>
+      <edge id="25" source="3" target="7">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="26" source="3" target="8" weight="6.0">
+        <viz:color r="148" g="61" b="73"></viz:color>
+      </edge>
+      <edge id="27" source="3" target="9">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="28" source="3" target="10">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="29" source="4" target="2">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="30" source="4" target="3" weight="3.0">
+        <viz:color r="197" g="170" b="170"></viz:color>
+      </edge>
+      <edge id="31" source="4" target="6" weight="6.0">
+        <viz:color r="148" g="61" b="73"></viz:color>
+      </edge>
+      <edge id="32" source="4" target="7" weight="3.0">
+        <viz:color r="197" g="170" b="170"></viz:color>
+      </edge>
+      <edge id="33" source="4" target="8" weight="7.0">
+        <viz:color r="143" g="30" b="51"></viz:color>
+      </edge>
+      <edge id="34" source="4" target="9">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="35" source="4" target="10">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="36" source="5" target="1" weight="5.0">
+        <viz:color r="152" g="91" b="95"></viz:color>
+      </edge>
+      <edge id="37" source="5" target="2" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="38" source="5" target="3" weight="4.0">
+        <viz:color r="169" g="128" b="128"></viz:color>
+      </edge>
+      <edge id="39" source="5" target="4">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="40" source="5" target="6" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="41" source="5" target="7" weight="6.0">
+        <viz:color r="148" g="61" b="73"></viz:color>
+      </edge>
+      <edge id="42" source="5" target="8" weight="5.0">
+        <viz:color r="152" g="91" b="95"></viz:color>
+      </edge>
+      <edge id="43" source="5" target="9" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="44" source="6" target="0">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="45" source="6" target="1">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="46" source="6" target="2">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="47" source="6" target="3" weight="4.0">
+        <viz:color r="169" g="128" b="128"></viz:color>
+      </edge>
+      <edge id="48" source="6" target="4" weight="6.0">
+        <viz:color r="148" g="61" b="73"></viz:color>
+      </edge>
+      <edge id="49" source="6" target="5" weight="4.0">
+        <viz:color r="169" g="128" b="128"></viz:color>
+      </edge>
+      <edge id="50" source="6" target="7" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="51" source="6" target="8" weight="3.0">
+        <viz:color r="197" g="170" b="170"></viz:color>
+      </edge>
+      <edge id="52" source="6" target="9" weight="3.0">
+        <viz:color r="197" g="170" b="170"></viz:color>
+      </edge>
+      <edge id="53" source="6" target="10" weight="3.0">
+        <viz:color r="197" g="170" b="170"></viz:color>
+      </edge>
+      <edge id="54" source="7" target="1" weight="7.0">
+        <viz:color r="143" g="30" b="51"></viz:color>
+      </edge>
+      <edge id="55" source="7" target="3">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="56" source="7" target="4" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="57" source="7" target="5" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="58" source="7" target="6" weight="5.0">
+        <viz:color r="152" g="91" b="95"></viz:color>
+      </edge>
+      <edge id="59" source="7" target="8" weight="6.0">
+        <viz:color r="148" g="61" b="73"></viz:color>
+      </edge>
+      <edge id="60" source="7" target="9" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="61" source="7" target="10" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="62" source="8" target="2">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="63" source="8" target="3" weight="4.0">
+        <viz:color r="169" g="128" b="128"></viz:color>
+      </edge>
+      <edge id="64" source="8" target="4" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="65" source="8" target="5" weight="8.0">
+        <viz:color r="139" g="0" b="29"></viz:color>
+      </edge>
+      <edge id="66" source="8" target="6" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="67" source="8" target="7" weight="8.0">
+        <viz:color r="139" g="0" b="29"></viz:color>
+      </edge>
+      <edge id="68" source="8" target="9" weight="3.0">
+        <viz:color r="197" g="170" b="170"></viz:color>
+      </edge>
+      <edge id="69" source="8" target="10" weight="3.0">
+        <viz:color r="197" g="170" b="170"></viz:color>
+      </edge>
+      <edge id="70" source="9" target="1">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="71" source="9" target="3" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="72" source="9" target="4" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="73" source="9" target="5">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="74" source="9" target="6" weight="3.0">
+        <viz:color r="197" g="170" b="170"></viz:color>
+      </edge>
+      <edge id="75" source="9" target="7" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="76" source="9" target="8" weight="3.0">
+        <viz:color r="197" g="170" b="170"></viz:color>
+      </edge>
+      <edge id="77" source="10" target="3">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="78" source="10" target="4">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="79" source="10" target="5">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="80" source="10" target="6">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+      <edge id="81" source="10" target="8" weight="2.0">
+        <viz:color r="226" g="212" b="212"></viz:color>
+      </edge>
+      <edge id="82" source="10" target="9">
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
